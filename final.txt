@@ -1,0 +1,54 @@
+commit 5a8ffb3a452bb88c6b7e7dd5fd3b73ebfcbd7e25
+Author: Krzysztof Rakint <krzysztof.rakint@gmail.com>
+Date:   Fri Nov 4 13:22:48 2022 +0100
+
+    dodanie pliku diff.txt
+
+commit 7366eea87aeb7d9c6308dada795e91edee392d3f
+Author: Krzysztof Rakint <krzysztof.rakint@gmail.com>
+Date:   Fri Nov 4 13:21:11 2022 +0100
+
+    dodaj plik wariant2
+
+commit 169fc70e747323cf4077dc21ff411c90bd73c364
+Author: Krzysztof Rakint <krzysztof.rakint@gmail.com>
+Date:   Fri Nov 4 13:18:30 2022 +0100
+
+    Punkt 9
+
+commit b55d588cbd24a8ae99be1add6860d66a1075418f
+Author: Krzysztof Rakint <krzysztof.rakint@gmail.com>
+Date:   Fri Nov 4 13:18:09 2022 +0100
+
+    Punkt 8
+
+commit 4164c7edd0855b7b0e7f6438c30cb72cc3801f32
+Merge: 80b6aca e275eb8
+Author: Krzysztof Rakint <krzysztof.rakint@gmail.com>
+Date:   Fri Nov 4 13:12:36 2022 +0100
+
+    Merge branch 'wariant1'
+
+commit 80b6acae7e44c00a559a63009969a528b989c943
+Author: Krzysztof Rakint <krzysztof.rakint@gmail.com>
+Date:   Fri Nov 4 13:12:12 2022 +0100
+
+    Punkt 6
+
+commit e275eb886c41e902a032a76fc323db4ac3c331b2 (wariant1)
+Author: Krzysztof Rakint <krzysztof.rakint@gmail.com>
+Date:   Fri Nov 4 13:10:21 2022 +0100
+
+    dodaj plik wariant1
+
+commit 2fb1d6e6128bb14b7da260348d8f3fc36cca37ea
+Author: Krzysztof Rakint <krzysztof.rakint@gmail.com>
+Date:   Fri Nov 4 13:06:05 2022 +0100
+
+    Dodanie pierwszych poleceń
+
+commit 68c3a6d12e6256a3aaaa2bc9fd12d121bbe357bc
+Author: Krzysztof Rakint <krzysztof.rakint@gmail.com>
+Date:   Fri Nov 4 13:03:22 2022 +0100
+
+    Początek projektu.
